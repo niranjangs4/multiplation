@@ -1,21 +1,44 @@
-# multiplation.py
-#This module Multiplation table generate
-Run in console or  terminal like:
-# Example python multiplation.py
+# Multiplation Table
 
-Output:
+## Getting Started
 
-enter number: 29
-29.0x1=29.0
-29.0x2=58.0
-29.0x3=87.0
-29.0x4=116.0
-29.0x5=145.0
-29.0x6=174.0
-29.0x7=203.0
-29.0x8=232.0
-29.0x9=261.0
-29.0x10=290.0
+These instructions will get idea of the project up and running on your local machine for development and Execution purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+What things you need to install the software and how to install them
+```
+Python2/Python3
+```
+
+## Running the Script
+
+Enter terminal or console windows/Linux/mac.  
+
+Like : python filename       
+
+```
+python multiplaction.py
+
+enter number: 23
+23.0x1=23.0
+23.0x2=46.0
+23.0x3=69.0
+23.0x4=92.0
+23.0x5=115.0
+23.0x6=138.0
+23.0x7=161.0
+23.0x8=184.0
+23.0x9=207.0
+23.0x10=230.0
 Do you want to continue (y) for yes or (n) for no: n
 -----------Thank You-----------
+
+```
+
+## Authors
+
+* **Niranjan Kumar G S** - *Complete work* - [Guithub](https://github.com/niranjangs4)
+* **Email : niranjan4@outlook.in**
+
 
